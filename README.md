@@ -1,67 +1,68 @@
 # بسم الله الرحمن الرحيم
 # الحمد لله، والصلاة والسلام على رسول الله ﷺ
 
-# **Fundamentals of Information Systems (IS012) - Course Outline**
+# 📘 12-Week Course Plan: Fundamentals of Information Systems
 
-## **Course Code:** IS012  
-## **Course Name:** Fundamentals of Information Systems  
-## **Credit Hours:** 2 hours lecture (2 credits) + 2 hours lab/Exercise (1 credit)  
+## **Week 1: Introduction to Information Systems**
+- Overview of Information Systems (IS)
+- Role of IS in modern organizations
+- Key components: People, software, hardware, data, and communication technologies
+- Professional software development (_Chapter 1.1_)
+- Ethics in software and IS (_Chapter 1.2_)
 
----
+## **Week 2: Software Processes and Agile Development**
+- Software process models and activities (_Chapter 2.1, 2.2_)
+- Agile software development (_Chapter 3.1_)
+- Agile methods, techniques, and project management (_Chapter 3.2, 3.3_)
 
-## **Course Structure (12 Weeks)**
+## **Week 3: Information Systems and Competitive Advantage**
+- How IS provides a competitive advantage
+- Business applications of IS
+- Coping with change and process improvement (_Chapter 2.3, 2.4_)
 
-| **Week** | **Lecture Topic** | **Lab/Exercise (Python-Based)**
-|---------|------------------|-------------------------------|
-| **1** | Introduction to Information Systems and their Role in Organizations | Python Basics: Setting up Python environment, variables, and data types |
-| **2** | Key Components of IS: People, Software, Hardware, Data, Communication Technologies | Python for Data Handling: Lists, Dictionaries, and File Operations |
-| **3** | Information Systems and Competitive Advantage | Data Processing with Python: Pandas for Data Manipulation |
-| **4** | Business Processes and IS: How Organizations Use IT | Data Visualization with Matplotlib & Seaborn |
-| **5** | Database Concepts: Introduction to Relational Databases and SQL | SQL with Python: Using SQLite3 for Data Storage and Queries |
-| **6** | Networks and Communication Technologies | Web Scraping with Python: Requests & BeautifulSoup |
-| **7** | Information Systems Security and Ethical Issues | Implementing Basic Authentication & Encryption with Python |
-| **8** | Enterprise Systems (ERP, CRM, SCM) | API Integration with Python: Working with REST APIs |
-| **9** | Decision Support Systems and Business Intelligence | Data Analysis and Decision Making with Python (Pandas & NumPy) |
-| **10** | IT Project Management & System Development Life Cycle (SDLC) | Python for Automating Tasks (Scripting & Batch Processing) |
-| **11** | Emerging Trends: AI, Blockchain, IoT, and Cloud Computing | Introduction to AI with Python: Basics of Machine Learning (Scikit-Learn) |
-| **12** | Course Review and Final Project Discussion | Final Lab Project: Developing a Simple IS-Based Application |
+## **Week 4: Requirements Engineering in Information Systems**
+- Functional and non-functional requirements (_Chapter 4.1_)
+- Requirements elicitation and specification (_Chapter 4.3, 4.4_)
+- Requirements validation and change management (_Chapter 4.5, 4.6_)
 
----
+## **Week 5: System Modeling and Database Concepts**
+- Context models, interaction models, and structural models (_Chapter 5.1-5.3_)
+- Data organization, databases, and SQL basics
+- Behavioral models and model-driven engineering (_Chapter 5.4, 5.5_)
 
-## **Required Materials and Tools**
-### **Books & References**
-- *Management Information Systems* by Kenneth C. Laudon & Jane P. Laudon
-- *Python for Data Analysis* by Wes McKinney
-- *Automate the Boring Stuff with Python* by Al Sweigart
+## **Week 6: System and Architectural Design**
+- Architectural design decisions and patterns (_Chapter 6.1, 6.3_)
+- Application architectures (_Chapter 6.4_)
+- Cloud computing and IS architecture
 
-### **Software & Platforms**
-- **Python 3.x** (https://www.python.org/)
-- **Jupyter Notebook** (https://jupyter.org/)
-- **SQLite** (for database exercises)
-- **VS Code or PyCharm** (IDE for Python development)
-- **Google Colab** (for cloud-based Python execution)
+## **Week 7: Implementation and Software Development**
+- Object-oriented design using UML (_Chapter 7.1_)
+- Design patterns and implementation issues (_Chapter 7.2, 7.3_)
+- Open-source development in IS (_Chapter 7.4_)
 
-### **Online Resources**
-- W3Schools: [SQL](https://www.w3schools.com/sql/) | [Python](https://www.w3schools.com/python/)
-- Python Official Docs: [https://docs.python.org/3/](https://docs.python.org/3/)
-- Pandas Documentation: [https://pandas.pydata.org/docs/](https://pandas.pydata.org/docs/)
-- Matplotlib Documentation: [https://matplotlib.org/stable/contents.html](https://matplotlib.org/stable/contents.html)
+## **Week 8: Security, Dependability, and Quality Management**
+- Security and dependability in IS (_Chapter 13.1_)
+- Reliability and availability (_Chapter 11.1_)
+- Software quality standards and quality management (_Chapter 24.1, 24.2_)
 
----
+## **Week 9: Testing and Maintenance of IS**
+- Development testing and test-driven development (_Chapter 8.1, 8.2_)
+- User testing and release testing (_Chapter 8.3, 8.4_)
+- Software maintenance and evolution (_Chapter 9.1, 9.3_)
 
-## **Assessment & Grading**
-- **Quizzes (20%)**: Weekly quizzes covering theoretical concepts
-- **Lab Exercises (30%)**: Hands-on Python exercises
-- **Midterm Exam (20%)**: Theory and applied knowledge assessment
-- **Final Project (30%)**: Developing a Python-based IS solution
+## **Week 10: Project and Risk Management in IS**
+- Project planning, scheduling, and cost estimation (_Chapter 23.1, 23.3, 23.5_)
+- Risk management and teamwork (_Chapter 22.1, 22.3_)
+- Agile planning (_Chapter 23.4_)
 
----
+## **Week 11: Emerging Technologies and Future Trends**
+- Service-oriented architectures (_Chapter 18.1_)
+- Cloud computing and Software as a Service (_Chapter 17.4_)
+- AI and machine learning applications in IS
 
-## **Final Project Ideas**
-- **Inventory Management System using Python & SQLite**
-- **Web Scraper for Business Data Analysis**
-- **Data Visualization Dashboard for Business Insights**
-- **Customer Relationship Management (CRM) System Prototype**
-- **AI-Powered Decision Support System**
+## **Week 12: Final Project Presentations and Review**
+- Student project presentations on selected IS topics
+- Review of key concepts and applications
+- Exam preparation and Q&A session
 
 🚀
